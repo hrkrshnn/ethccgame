@@ -1,0 +1,13 @@
+* Running
+
+#+begin_src fish
+cargo run  
+#+end_src
+
+#+begin_src text
+Phrase: "gorilla weird alien solid elephant power frog black pool eternal escape ghost"
+Phrase: "gorilla weird alien solid elephant rebel frog black ghost pool escape eternal"
+Phrase: "gorilla weird alien solid elephant fury frog black ghost eternal pool escape"
+Phrase: "gorilla weird alien solid elephant cruel frog black escape pool ghost eternal"
+Phrase: "gorilla weird alien solid elephant cute frog black ghost escape eternal pool"
+#+end_src
